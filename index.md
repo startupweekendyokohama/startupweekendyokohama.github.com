@@ -5,42 +5,66 @@ tagline: author
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+## 帰ってきたぞ、StartupWeekend横浜！！
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+起業体験イベントが数多く開催されるようになってきましたが、セミナーやワークショップ、ピッチイベント、アイデアソン、ハッカソン、プロダクトコンテストなど、その多くは起業に必要な単一要素にフォーカスしたイベントです。
+しかし、StartupWeekendはその全ての要素が凝縮された「本気」のスタートアップのイベントであり、機会、コミュニティを皆さまへお届けします♪
 
-## Update Author Attributes
+#【簡単な概要説明】
 
-In `_config.yml` remember to specify your own data:
+1日目（金曜日）チーム作り
 
-    title : My Blog =)
+| 時間 | 説明 |
+|:-----------|:-----------|
+| １８：３０ | 開場 |
+| １９：００ | スタート |
+| ２０：００ | 参加者によるアイデアスピーチ |
+| ２１：００ | 話し合い・投票 |
+| ２１：３０ | チーム作り・作業開始 |
+| ２２：００ | 帰宅 |
 
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+この日にアイデアがある方は1分間でアイデアピッチをしていただきます。そして、投票を行い、選抜後のアイデアでチームを編成し、初日は終了です。
 
-The theme should reference these variables whenever needed.
+ 2日目（土曜日）チーム作業
 
-## Sample Posts
+| 時間 | 説明 |
+|:-----------|:-----------|
+| ０９：３０ | オープン・朝食、チーム作業開始 |
+| １２：００ | 昼食 |
+| １４：００ | コーチィング |
+| １８：００ | 夕食 |
+| ２２：００ | 帰宅 |
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+3日目（日曜日）最終プレゼン
 
-    $ rm -rf _posts/core-samples
+| 時間 | 説明 |
+|:-----------|:-----------|
+| ０９：３０ | オープン・朝食、チーム作業開始 |
+| １２：００ | 昼食 |
+| １７：００ | 最終プレゼンテーション |
+| １９：００ | 授賞式 |
+| １９：３０ | 懇親会 |
 
-Here's a sample "posts list".
+最終日。午後のプレゼンに向けて最終仕上げをしていきます。午後からは審査員の前で各チームプレゼンをしていただきます。
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+---
 
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+そして、大切なのは、この3日間でイベントが終わるだけではなく、**始まりだということ**です。是非、それを体感しにお越し下さい！
+忘れられない3日間となるでしょう。しかし、どんな3日間にするかはあなた次第。
+皆様にお会いできるのを楽しみにしております！！
 
 
+#【StartupWeekendYokohama Facebookページ】
+詳細は、こちらにアップしていきますのでお楽しみに♪
+https://www.facebook.com/startupweekendyokohama
+
+
+#【動画】
+参加者密着の動画（山形の制作会社さんに作って頂きました。）
+20分位の動画なのですが、3日間のドキュメンタリーとしてすごい面白いです！
+https://www.youtube.com/watch?v=r3jPaVQaChU&feature=youtu.be
+是非、一度ごらんになってください。
+
+
+#【キャンセル・ポリシー】
+SWY参加チケットのキャンセルは2015年4月20日(月) 23:59までにご連絡いただければ決済システム手数料を除いた全額を返金いたします。それ以降は食事の支払いの関係で返金はいたしかねますので予めご了承ください。
