@@ -1,7 +1,7 @@
 ---
 layout: page
-title: StartupWeekend Yokohama
-tagline: Supporting tagline
+title: 2015/04/24(金) 〜 4/26(日)
+tagline: author
 ---
 {% include JB/setup %}
 
