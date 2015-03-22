@@ -506,6 +506,11 @@ html { box-sizing: border-box; }
 .text-navy a { color: #1e50a2; }
 .bg-navy     { background-color: #1e50a2 !important; }
 
+.border-gray { border-color: #dcdcdc !important; }
+.text-gray   { color: #dcdcdc; }
+.text-gray a { color: #dcdcdc; }
+.bg-gray     { background-color: #dcdcdc !important; }
+
 
 /* ----- per-post colors! ----- */
 
