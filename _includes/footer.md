@@ -1,7 +1,7 @@
 
 <strong>
 <abbr title="Copyright">&copy;</abbr>
- Startup Weekend Yokohama
+ Startup Weekend Yokohama fan community.
 </strong>
 <br><br>
 
