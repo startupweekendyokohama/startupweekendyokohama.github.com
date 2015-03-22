@@ -471,10 +471,10 @@ html { box-sizing: border-box; }
 .text-black a { color: #111111; }
 .bg-black     { background-color: #111111 !important; }
 
-.border-white { border-color: #f8f8f8 !important; }
-.text-white   { color: #f8f8f8; }
-.text-white a { color: #f8f8f8; }
-.bg-white     { background-color: #f8f8f8 !important; }
+.border-white { border-color: #ffffff !important; }
+.text-white   { color: #ffffff; }
+.text-white a { color: #ffffff; }
+.bg-white     { background-color: #ffffff !important; }
 
 .border-blue { border-color: #49a7e9 !important; }
 .text-blue   { color: #49a7e9; }
@@ -501,64 +501,53 @@ html { box-sizing: border-box; }
 .text-turquoise a { color: #0fbfcf; }
 .bg-turquoise     { background-color: #0fbfcf !important; }
 
+.border-navy { border-color: #1e50a2 !important; }
+.text-navy   { color: #1e50a2; }
+.text-navy a { color: #1e50a2; }
+.bg-navy     { background-color: #1e50a2 !important; }
+
 
 /* ----- per-post colors! ----- */
 
   
   
   
-  nav .p-updating { border-color: #f8f8f8; }
-  #updating { background-color: #f8f8f8 !important; color: nany; }
-  #updating a { color: nany; }
-  #updating .sectiondivider { color: #f8f8f8; }
+  nav .p-info { border-color: lightgray; }
+  #info { background-color: lightgray !important; color: #111111; }
+  #info a { color: #111111; }
+  #info .sectiondivider { color: lightgray; }
 
   
   
   
   nav .p-video { border-color: #0fbfcf; }
-  #video { background-color: #0fbfcf !important; color: #f8f8f8; }
-  #video a { color: #f8f8f8; }
+  #video { background-color: #0fbfcf !important; color: #ffffff; }
+  #video a { color: #ffffff; }
   #video .sectiondivider { color: #0fbfcf; }
 
   
   
   
   nav .p-staff { border-color: #63BD2F; }
-  #staff { background-color: #63BD2F !important; color: #f8f8f8; }
-  #staff a { color: #f8f8f8; }
+  #staff { background-color: #63BD2F !important; color: #ffffff; }
+  #staff a { color: #ffffff; }
   #staff .sectiondivider { color: #63BD2F; }
 
   
   
   
-  nav .p-judge { border-color: #49a7e9; }
-  #judge { background-color: #49a7e9 !important; color: #f8f8f8; }
-  #judge a { color: #f8f8f8; }
-  #judge .sectiondivider { color: #49a7e9; }
-
-  
-  
-  
-  nav .p-coach { border-color: #fab125; }
-  #coach { background-color: #fab125 !important; color: #111111; }
-  #coach a { color: #111111; }
-  #coach .sectiondivider { color: #fab125; }
-
-  
-  
-  
   nav .p-schedule { border-color: #c869bf; }
-  #schedule { background-color: #c869bf !important; color: #f8f8f8; }
-  #schedule a { color: #f8f8f8; }
+  #schedule { background-color: #c869bf !important; color: #ffffff; }
+  #schedule a { color: #ffffff; }
   #schedule .sectiondivider { color: #c869bf; }
 
   
   
   
-  nav .p-intro { border-color: #f8f8f8; }
-  #intro { background-color: #f8f8f8 !important; color: #111111; }
-  #intro a { color: #111111; }
-  #intro .sectiondivider { color: #f8f8f8; }
+  nav .p-home { border-color: #ffffff; }
+  #home { background-color: #ffffff !important; color: #111111; }
+  #home a { color: #111111; }
+  #home .sectiondivider { color: #ffffff; }
 
 
 
