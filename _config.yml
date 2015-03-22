@@ -17,10 +17,11 @@ highlighter: pygments
 ### content configuration ###
 title:       "StartupWeekend Yokohama"
 keywords:    "startupweekendyokohama, startupweekend, startup, yokohama, weekend"
-description: "曜夜から日曜夜まで54時間かけて開催されるStartupWeekendYokohama"
+description: "金曜夜から日曜夜まで54時間かけて開催されるスタートアップイベント"
 #source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
+image: "img/swy_navy.png"
 #google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
 
 
