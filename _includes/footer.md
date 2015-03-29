@@ -1,9 +1,9 @@
 
-<strong>
+<br>
+<h4>
 <abbr title="Copyright">&copy;</abbr>
  Startup Weekend Yokohama fan community.
-</strong>
-<br><br>
-
-<img src="/img/footer/sponsor.png" height="80">
+</h4>
+<br>
+<br>
 
