@@ -541,6 +541,22 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-judge { border-color: #49a7e9; }
+  #judge { background-color: #49a7e9 !important; color: #ffffff; }
+  #judge a { color: #ffffff; }
+  #judge .sectiondivider { color: #49a7e9; }
+
+  
+  
+  
+  nav .p-coach { border-color: #fab125; }
+  #coach { background-color: #fab125 !important; color: #111111; }
+  #coach a { color: #111111; }
+  #coach .sectiondivider { color: #fab125; }
+
+  
+  
+  
   nav .p-schedule { border-color: #c869bf; }
   #schedule { background-color: #c869bf !important; color: #ffffff; }
   #schedule a { color: #ffffff; }
