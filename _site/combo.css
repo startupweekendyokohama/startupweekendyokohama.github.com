@@ -565,6 +565,14 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-event { border-color: #dcdcdc; }
+  #event { background-color: #dcdcdc !important; color: #111111; }
+  #event a { color: #111111; }
+  #event .sectiondivider { color: #dcdcdc; }
+
+  
+  
+  
   nav .p-home { border-color: #ffffff; }
   #home { background-color: #ffffff !important; color: #111111; }
   #home a { color: #111111; }
